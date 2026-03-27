@@ -8,9 +8,9 @@
             <ingrediente>Massa</ingrediente>
             <ingrediente>Frango</ingrediente>
         </ingredientes>
-        <preco moeda="BRL">5.00</preco>
+        <preco moeda="BRL">5.00 R$</preco>
         <calorias>500</calorias>
-        <tempo_preparo>25 minutos</tempo_preparo>
+        <tempoPreparo>25 minutos</tempoPreparo>
     </prato>
 </cardapio>
 <!--fazer o resto depois-->
