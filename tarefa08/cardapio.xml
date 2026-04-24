@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardapio>
+    <prato id="1">
+        <nome>Pastel</nome>
+        <descricao>Massa artesanal com recheio de frango, extra calorico</descricao>
+        <ingredientes>
+            <ingrediente>Massa</ingrediente>
+            <ingrediente>Frango</ingrediente>
+        </ingredientes>
+        <preco>5.00</preco>
+        <calorias>500</calorias>
+        <tempoPreparo>25 minutos</tempoPreparo>
+    </prato>
+
+    <prato id="2">
+        <nome>Hamburguer</nome>
+        <descricao>Pao, carne e quejo</descricao>
+        <ingredientes>
+            <ingrediente>Pao</ingrediente>
+            <ingrediente>Carne bovina</ingrediente>
+            <ingrediente>Queijo</ingrediente>
+        </ingredientes>
+        <preco>10.00</preco>
+        <calorias>850</calorias>
+        <tempoPreparo>20 minutos</tempoPreparo>
+    </prato>
+
+    <prato id="3">
+        <nome>Pizza de pao</nome>
+        <descricao>Pizza de massa de pao de forma pq a massa normal acabou</descricao>
+        <ingredientes>
+            <ingrediente>Pao de forma</ingrediente>
+            <ingrediente>Molho de tomate</ingrediente>
+            <ingrediente>Mussarela</ingrediente>
+            <ingrediente>Tomate</ingrediente>
+        </ingredientes>
+        <preco>30.00</preco>
+        <calorias>1200</calorias>
+        <tempoPreparo>35 minutos</tempoPreparo>
+    </prato>
+
+    <prato id="4">
+        <nome>Salada</nome>
+        <descricao>Salada verde com alface, tomate e cebola</descricao>
+        <ingredientes>
+            <ingrediente>Alface</ingrediente>
+            <ingrediente>Tomate</ingrediente>
+            <ingrediente>Cebola</ingrediente>
+        </ingredientes>
+        <preco>12.00</preco>
+        <calorias>150</calorias>
+        <tempoPreparo>10 minutos</tempoPreparo>
+    </prato>
+
+    <prato id="5">
+        <nome>Lasanha Dalva</nome>
+        <descricao>Lasanha de carne moida com molho branco, aquecida do mercado</descricao>
+        <ingredientes>
+            <ingrediente>Lasanha comprada do mercado quase vencendo</ingrediente>
+        </ingredientes>
+        <preco>25.00</preco>
+        <calorias>950</calorias>
+        <tempoPreparo>40 minutos</tempoPreparo>
+    </prato>
+</cardapio>
