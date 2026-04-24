@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz versao="1.0">
+    <disciplina>PSI e conhecimentos gerais</disciplina>
+    <professor>
+        <nome>Diego Cirilo</nome>
+        <matrícula>192730173</matrícula>
+    </professor>
+    <turma>Infoweb4v</turma>
+    <data>2025/05/01</data>
+    <questões>
+        <questão>
+            <enunciado>O que é o Django?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="nao">Linguagem de Programação</alternativa>
+                <alternativa correta="sim">Framework de desenvolvimento web em Python</alternativa>
+                <alternativa correta="nao">Alternativa a Vscode</alternativa>
+                <alternativa correta="nao">Filme de Quentin Tarantino</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>O que é HTML?</enunciado>
+            <pontuação>1</pontuação>
+            <alternativas>
+                <alternativa correta="nao">Linguagem de Programação</alternativa>
+                <alternativa correta="nao">Linguagem de Marcação de Futebol</alternativa>
+                <alternativa correta="sim">Linguagem de Marcação de Hipertexto</alternativa>
+                <alternativa correta="nao">Pedrina Célia Brasil</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>O que significa a sigla "FF"?</enunciado>
+            <pontuação>1</pontuação>
+            <alternativas>
+                <alternativa correta="nao">Free Fire</alternativa>
+                <alternativa correta="nao">Figueredo Ferreira</alternativa>
+                <alternativa correta="nao">Final Fantasy</alternativa>
+                <alternativa correta="sim">Todas as alternativas Anteriores</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>Onde era mais perigoso cair em Bermuda 2019?</enunciado>
+            <pontuação>1</pontuação>
+            <alternativas>
+                <alternativa correta="sim">Clock Tower quando Nobru fazia live</alternativa>
+                <alternativa correta="nao">Mil quando Apelapato e Megadragon faziam live</alternativa>
+                <alternativa correta="nao">Bimasaki em inicio de temporada</alternativa>
+                <alternativa correta="nao">Peak antes da reformulação</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>Questão de Graça?</enunciado>
+            <pontuação>3</pontuação>
+            <alternativas>
+                <alternativa correta="nao">É bom?</alternativa>
+                <alternativa correta="nao">É bom demais né?</alternativa>
+                <alternativa correta="sim">Feijão com Farinha</alternativa>
+                <alternativa correta="nao">Pedrina Célia Brasil</alternativa>
+            </alternativas>
+        </questão>
+    </questões>
+</quiz>
