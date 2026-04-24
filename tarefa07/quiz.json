@@ -1,0 +1,136 @@
+{
+  "quiz": {
+    "versao": "1.0",
+    "disciplina": "PSI e conhecimentos gerais",
+    "professor": {
+      "nome": "Diego Cirilo",
+      "matrícula": 192730173
+    },
+    "turma": "Infoweb4v",
+    "data": "2025/05/01",
+    "questões": {
+      "questão": [
+        {
+          "enunciado": "O que é o Django?",
+          "pontuação": 2,
+          "alternativas": {
+            "alternativa": [
+              {
+                "correta": "nao",
+                "texto": "Linguagem de Programação"
+              },
+              {
+                "correta": "sim",
+                "texto": "Framework de desenvolvimento web em Python"
+              },
+              {
+                "correta": "nao",
+                "texto": "Alternativa a Vscode"
+              },
+              {
+                "correta": "nao",
+                "texto": "Filme de Quentin Tarantino"
+              }
+            ]
+          }
+        },
+        {
+          "enunciado": "O que é HTML?",
+          "pontuação": 1,
+          "alternativas": {
+            "alternativa": [
+              {
+                "correta": "nao",
+                "texto": "Linguagem de Programação"
+              },
+              {
+                "correta": "nao",
+                "texto": "Linguagem de Marcação de Futebol"
+              },
+              {
+                "correta": "sim",
+                "texto": "Linguagem de Marcação de Hipertexto"
+              },
+              {
+                "correta": "nao",
+                "texto": "Pedrina Célia Brasil"
+              }
+            ]
+          }
+        },
+        {
+          "enunciado": "O que significa a sigla FF?",
+          "pontuação": 1,
+          "alternativas": {
+            "alternativa": [
+              {
+                "correta": "nao",
+                "texto": "Free Fire"
+              },
+              {
+                "correta": "nao",
+                "texto": "Figueredo Ferreira"
+              },
+              {
+                "correta": "nao",
+                "texto": "Final Fantasy"
+              },
+              {
+                "correta": "sim",
+                "texto": "Todas as alternativas Anteriores"
+              }
+            ]
+          }
+        },
+        {
+          "enunciado": "Onde era mais perigoso cair em Bermuda 2019?",
+          "pontuação": 1,
+          "alternativas": {
+            "alternativa": [
+              {
+                "correta": "sim",
+                "texto": "Clock Tower quando Nobru fazia live"
+              },
+              {
+                "correta": "nao",
+                "texto": "Mil quando Apelapato e Megadragon faziam live"
+              },
+              {
+                "correta": "nao",
+                "texto": "Bimasaki em inicio de temporada"
+              },
+              {
+                "correta": "nao",
+                "texto": "Peak antes da reformulação"
+              }
+            ]
+          }
+        },
+        {
+          "enunciado": "Questão de Graça?",
+          "pontuação": 3,
+          "alternativas": {
+            "alternativa": [
+              {
+                "correta": "nao",
+                "texto": "É bom?"
+              },
+              {
+                "correta": "nao",
+                "texto": "É bom demais né?"
+              },
+              {
+                "correta": "sim",
+                "texto": "Feijão com Farinha"
+              },
+              {
+                "correta": "nao",
+                "texto": "Pedrina Célia Brasil"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

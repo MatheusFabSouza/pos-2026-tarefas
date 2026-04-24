@@ -1,0 +1,79 @@
+{
+  "cardapio": {
+    "prato": [
+      {
+        "id": "c01",
+        "nome": "Pastel",
+        "descricao": "Massa artesanal com recheio de frango, extra calorico",
+        "ingredientes": {
+          "ingrediente": [
+            "Massa",
+            "Frango"
+          ]
+        },
+        "preco": 5.00,
+        "calorias": 500,
+        "tempoPreparo": "25 minutos"
+      },
+      {
+        "id": "c02",
+        "nome": "Hamburguer",
+        "descricao": "Pao, carne e quejo",
+        "ingredientes": {
+          "ingrediente": [
+            "Pao",
+            "Carne bovina",
+            "Quejo"
+          ]
+        },
+        "preco": 10.00,
+        "calorias": 850,
+        "tempoPreparo": "20 minutos"
+      },
+      {
+        "id": "c03",
+        "nome": "Pizza de pao",
+        "descricao": "Pizza de massa de pao de forma pq a massa normal acabou",
+        "ingredientes": {
+          "ingrediente": [
+            "Pao de forma",
+            "Molho de tomate",
+            "Mussarela",
+            "Tomate"
+          ]
+        },
+        "preco": 30.00,
+        "calorias": 1200,
+        "tempoPreparo": "35 minutos"
+      },
+      {
+        "id": "c04",
+        "nome": "Salada",
+        "descricao": "Salada verde com alface, tomate e cebola",
+        "ingredientes": {
+          "ingrediente": [
+            "Alface",
+            "Tomate",
+            "Cebola"
+          ]
+        },
+        "preco": 12.00,
+        "calorias": 150,
+        "tempoPreparo": "10 minutos"
+      },
+      {
+        "id": "c05",
+        "nome": "Lasanha Dalva",
+        "descricao": "Lasanha de carne moida com molho branco, aquecida do mercado",
+        "ingredientes": {
+          "ingrediente": [
+            "Lasanha comprada do mercado quase vencendo"
+          ]
+        },
+        "preco": 25.00,
+        "calorias": 950,
+        "tempoPreparo": "40 minutos"
+      }
+    ]
+  }
+}

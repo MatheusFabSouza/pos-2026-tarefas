@@ -1,0 +1,108 @@
+{
+  "imobiliaria": {
+    "imovel": [
+      {
+        "descricao": "Casa de piscina em frente a barragem.",
+        "proprietario": {
+          "nome": "Salu Macapá",
+          "email": "homemdonorte@email.com",
+          "telefone": "(84) 91234-5678"
+        },
+        "endereco": {
+          "rua": "Barragem Campo Grande",
+          "bairro": "Perto da Barragem",
+          "cidade": "São Paulo do Potengi",
+          "número": 666
+        },
+        "caracteristicas": {
+          "tamanho": "Grande",
+          "numQuartos": 3,
+          "numBanheiros": 2
+        },
+        "valor": 45.00000000000
+      },
+      {
+        "descricao": "Lar subaquatico",
+        "proprietario": {
+          "nome": "Sula Macapá",
+          "email": "irmaodohomemdonorte@gmail.com",
+          "telefone": "(84) 98765-4321"
+        },
+        "endereco": {
+          "rua": "Bogah Cajadoh",
+          "bairro": "Bairro 2",
+          "cidade": "São Pedro",
+          "número": 333
+        },
+        "caracteristicas": {
+          "tamanho": "Grande",
+          "numQuartos": 2,
+          "numBanheiros": 1
+        },
+        "valor": 32.000000000
+      },
+      {
+        "descricao": "Casa Pequena.",
+        "proprietario": {
+          "nome": "Lucas (pequeno)",
+          "email": "homempequeno@email.com",
+          "telefone": "(84) 99755-4411"
+        },
+        "endereco": {
+          "rua": "Rua dos Anãos",
+          "bairro": "Capim Pequeno",
+          "cidade": "Natal",
+          "número": 78
+        },
+        "caracteristicas": {
+          "tamanho": "Pequeno",
+          "numQuartos": 1,
+          "numBanheiros": 1
+        },
+        "valor": 68.00
+      },
+      {
+        "descricao": "Casa Grande.",
+        "proprietario": {
+          "nome": "Lucas Grande",
+          "email": "homemgrande@email.com",
+          "telefone": [
+            "(84) 99123-4567",
+            "(84) 99123-4568"
+          ]
+        },
+        "endereco": {
+          "rua": "Rua Dos Gigantes",
+          "bairro": "Tirol",
+          "cidade": "Natal",
+          "número": 15
+        },
+        "caracteristicas": {
+          "tamanho": "Enorme",
+          "numQuartos": 5,
+          "numBanheiros": 5
+        },
+        "valor": 15.0000000
+      },
+      {
+        "descricao": "Ct do Vasco.",
+        "proprietario": {
+          "nome": "Lucas Thierry Araújo Vicente",
+          "email": "lucasthierry9@gmail.com",
+          "telefone": "(84) 99710-5728"
+        },
+        "endereco": {
+          "rua": "Perto do Inferno",
+          "bairro": "Perto de Elfheim",
+          "cidade": "Nether"
+        },
+        "caracteristicas": {
+          "tamanho": "Consideravel",
+          "numQuartos": 5,
+          "numBanheiros": 4
+        },
+        "valor": 1250000
+      }
+    ]
+  }
+}
