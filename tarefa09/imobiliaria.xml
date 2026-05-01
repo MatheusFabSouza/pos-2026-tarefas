@@ -1,0 +1,102 @@
+<imobiliaria>
+    <imovel>
+        <descricao>Casa de piscina em frente a barragem.</descricao>
+        <proprietario>
+            <nome>Salu Macapá</nome>
+            <email>homemdonorte@email.com</email>
+            <telefone>(84) 91234-5678</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Barragem Campo Grande</rua>
+            <bairro>Perto da Barragem</bairro>
+            <cidade>São Paulo do Potengi</cidade>
+            <número>666</número>
+        </endereco>
+        <caracteristicas>
+            <tamanho>Grande</tamanho>
+            <numQuartos>3</numQuartos>
+            <numBanheiros>2</numBanheiros>
+        </caracteristicas>
+        <valor>45.00000000000</valor>
+    </imovel>
+    <imovel>
+        <descricao>Lar subaquatico</descricao>
+        <proprietario>
+            <nome>Sula Macapá</nome>
+            <email>irmaodohomemdonorte@gmail.com</email>
+            <telefone>(84) 98765-4321</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Bogah Cajadoh</rua>
+            <bairro>Bairro 2</bairro>
+            <cidade>São Pedro</cidade>
+            <número>333</número>
+        </endereco>
+        <caracteristicas>
+            <tamanho>Grande</tamanho>
+            <numQuartos>2</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>32.000000000</valor>
+    </imovel>
+    <imovel>
+        <descricao>Casa Pequena.</descricao>
+        <proprietario>
+            <nome>Lucas (pequeno)</nome>
+            <email>homempequeno@email.com</email>
+            <telefone>(84) 99755-4411</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua dos Anãos</rua>
+            <bairro>Capim Pequeno</bairro>
+            <cidade>Natal</cidade>
+            <número>78</número>
+        </endereco>
+        <caracteristicas>
+            <tamanho>Pequeno</tamanho>
+            <numQuartos>1</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>68.00</valor>
+    </imovel>
+    <imovel>
+        <descricao>Casa Grande.</descricao>
+        <proprietario>
+            <nome>Lucas Grande</nome>
+            <email>homemgrande@email.com</email>
+            <telefone>(84) 99123-4567</telefone>
+            <telefone>(84) 99123-4568</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua Dos Gigantes</rua>
+            <bairro>Tirol</bairro>
+            <cidade>Natal</cidade>
+            <número>15</número>
+        </endereco>
+        <caracteristicas>
+            <tamanho>Enorme</tamanho>
+            <numQuartos>5</numQuartos>
+            <numBanheiros>5</numBanheiros>
+        </caracteristicas>
+        <valor>15.0000000</valor>
+    </imovel>
+    <imovel>
+        <descricao>Ct do Vasco.</descricao>
+        <proprietario>
+            <nome>Lucas Thierry Araújo Vicente</nome>
+            <email>lucasthierry9@gmail.com</email>
+            <telefone>(84) 99710-5728</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Perto do Inferno</rua>
+            <bairro>Perto de Elfheim</bairro>
+            <cidade>Nether</cidade>
+        </endereco>
+        <caracteristicas>
+            <tamanho>Consideravel</tamanho>
+            <numQuartos>5</numQuartos>
+            <numBanheiros>4</numBanheiros>
+        </caracteristicas>
+        <valor>1250000</valor>
+    </imovel>
+</imobiliaria>
